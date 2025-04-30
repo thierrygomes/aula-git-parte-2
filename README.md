@@ -8,7 +8,7 @@ Para rodar o programa localmente e entender o que a biblioteca faz, siga os pass
 
 1. Clone este repositório, entre no seu diretório e rode o programa
 
-git clone https://github.com/ufla-gcc259/aula-git-parte-2.git
+git clone https://github.com/ufla-dsl/aula-git-parte-2.git
 
 cd aula-git-parte-2
 
