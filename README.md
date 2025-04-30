@@ -4,11 +4,16 @@ Biblioteca escrita em Go para conversões simples de temperatura. Extraída do l
 
 Como usar?
 ----
-Faça o download da biblioteca:
+Para rodar o programa localmente e entender o que a biblioteca faz, siga os passos abaixo:
 
-`go get https://github.com/ufla-gcc259/aula-git-parte-2@v1.0.1`
+1. Clone este repositório, entre no seu diretório e rode o programa
 
-Pronto, agora é só usar:
+git clone https://github.com/ufla-gcc259/aula-git-parte-2.git
+
+cd aula-git-parte-2
+
+go run main.go
+
 ```go
 package main
 
