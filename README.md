@@ -4,7 +4,7 @@ Biblioteca escrita em Go para conversões simples de temperatura. Extraída do l
 
 Como usar?
 ----
-Para rodar o programa localmente e entender o que a biblioteca faz, siga os passos abaixo:
+Para rodar o programa localmente e entender o que ele faz, siga os passos abaixo:
 
 1. Clone este repositório, entre no seu diretório e rode o programa
 
