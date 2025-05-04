@@ -42,6 +42,7 @@ Python
 Exemplo de uso:
 
 print(f"Que frio! {TempConv.ABSOLUTE_ZERO_C}°C")  # Que frio! -273.15°C
+
 print(f"Fervendo! {TempConv.celsius_para_fahrenheit(TempConv.BOILING_C)}°F")  # Fervendo! 212°F
 
 Pseudo-codigo
